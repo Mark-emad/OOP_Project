@@ -1,0 +1,11 @@
+D:\VS\INVOICE_supermarket\INVOICE_supermarket\bin\Debug\INVOICE_supermarket.exe.config
+D:\VS\INVOICE_supermarket\INVOICE_supermarket\bin\Debug\INVOICE_supermarket.exe
+D:\VS\INVOICE_supermarket\INVOICE_supermarket\bin\Debug\INVOICE_supermarket.pdb
+D:\VS\INVOICE_supermarket\INVOICE_supermarket\obj\Debug\INVOICE_supermarket.csproj.AssemblyReference.cache
+D:\VS\INVOICE_supermarket\INVOICE_supermarket\obj\Debug\INVOICE_supermarket.csproj.SuggestedBindingRedirects.cache
+D:\VS\INVOICE_supermarket\INVOICE_supermarket\obj\Debug\INVOICE_supermarket.Invoice.resources
+D:\VS\INVOICE_supermarket\INVOICE_supermarket\obj\Debug\INVOICE_supermarket.Properties.Resources.resources
+D:\VS\INVOICE_supermarket\INVOICE_supermarket\obj\Debug\INVOICE_supermarket.csproj.GenerateResource.cache
+D:\VS\INVOICE_supermarket\INVOICE_supermarket\obj\Debug\INVOICE_supermarket.csproj.CoreCompileInputs.cache
+D:\VS\INVOICE_supermarket\INVOICE_supermarket\obj\Debug\INVOICE_supermarket.exe
+D:\VS\INVOICE_supermarket\INVOICE_supermarket\obj\Debug\INVOICE_supermarket.pdb
