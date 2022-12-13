@@ -1,1 +1,1 @@
-# OOP_Project
+# OOP Project Supermarket system
